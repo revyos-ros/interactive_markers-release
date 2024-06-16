@@ -1,3 +1,26 @@
+## interactive_markers (jazzy) - 2.5.4-3
+
+The packages in the `interactive_markers` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy interactive_markers --override-release-repository-push-url git@github.com:revyos-ros/interactive_markers-release.git` on `Sun, 16 Jun 2024 15:25:39 -0000`
+
+The `interactive_markers` package was released.
+
+Version of package(s) in repository `interactive_markers`:
+
+- upstream repository: https://github.com/ros-visualization/interactive_markers.git
+- release repository: https://github.com/revyos-ros/interactive_markers-release.git
+- rosdistro version: `2.5.4-2`
+- old version: `2.5.4-2`
+- new version: `2.5.4-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## interactive_markers (rolling) - 2.6.0-1
 
 The packages in the `interactive_markers` repository were released into the `rolling` distro by running `/usr/bin/bloom-release interactive_markers --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 12:00:05 -0000`
